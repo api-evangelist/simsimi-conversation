@@ -1,0 +1,45 @@
+{
+    "name": "SimSimi Conversation",
+    "description": "Talk with SimSimi via Twitter @TalkWithSimSimi. For questions, e-mail us on support@simsimi.com",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1847-simsimi-conversation.jpg",
+    "tags": [
+        "chats",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/simsimi-conversation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SimSimi Conversation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1847-simsimi-conversation.jpg",
+            "humanURL": "http:\/\/developer.simsimi.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/simsimi-conversation-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/simsimi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SimSimiInc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.simsimi.com\/"
+        }
+    ]
+}
